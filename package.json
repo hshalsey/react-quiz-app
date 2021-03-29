@@ -2,7 +2,7 @@
   "name": "bbquiz",
   "version": "0.1.0",
   "engines": {
-    "node": "14.5.4"
+    "node": "v14.5.4"
   },
   "homepage": "http://gitname.github.io/react-quiz-app",
   "dependencies": {
