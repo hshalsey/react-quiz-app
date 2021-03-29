@@ -1,9 +1,7 @@
 {
   "name": "bbquiz",
   "version": "0.1.0",
-  "engines": {
-    "node": "14.15.4"
-  },
+  "private": true,
   "homepage": "http://gitname.github.io/react-quiz-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
